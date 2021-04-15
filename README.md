@@ -1,4 +1,4 @@
-# EC662 | Digital Image Processing
+# Study Material for EC 6th Sem
 
-## [1. Sir's Notes - Unit 1](./DIP%20Notes.pdf)
-  - Sent on 15-04-2021
+Notes:
+## [Digital Image Processing - EC662](./EC662)
