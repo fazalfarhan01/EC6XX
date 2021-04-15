@@ -2,3 +2,6 @@
 
 Notes:
 ## [Digital Image Processing - EC662](./EC662)
+
+
+<a href="{{ site.github.youtube_url }}" class="btn">Download .zip</a>
