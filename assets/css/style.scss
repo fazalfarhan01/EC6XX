@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+@import 'https://fonts.googleapis.com/css?family=Kalam:100,200,300,400,500,600,700,800,900';
+
 $base: #0f1923;
 $white: #ece8e1;
 $pink: #ff4655;
@@ -10,12 +12,15 @@ $height: 54px;
 $transition: 0.3s ease-out all;
 body {
     background: $base;
-    font-family: "Muli";
+    font-family: Kalam;
+    & a {
+        color: $white;
+    }
 }
 
 div {
     display: flex;
-    height: 100vh;
+    height: 10vh;
     align-items: center;
     justify-content: center;
     flex-flow: column;

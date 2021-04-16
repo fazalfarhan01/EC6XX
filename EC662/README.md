@@ -2,7 +2,9 @@
 
 [Back](./../)
 
-## [YouTube Playlist](https://www.youtube.com/playlist?list=PLFkKAMLbnTTtMn2Qy-3qAp1vOZGn9JdSg)
+<div>
+<a class="white" href="https://www.youtube.com/playlist?list=PLFkKAMLbnTTtMn2Qy-3qAp1vOZGn9JdSg"><p><span class="bg"></span><span class="base"></span><span class="text">YouTube Playlist</span></p></a>
+</div>
 
 ## [1. Sir's Notes - Unit 1](./DIP%20Notes.pdf)
   - Sent on 15-04-2021
