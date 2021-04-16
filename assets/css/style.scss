@@ -9,7 +9,14 @@ $white: #ece8e1;
 $pink: #ff4655;
 $height: 54px;
 $transition: 0.3s ease-out all;
+
+$cols: 10;
+$rows: 6;
+$cells: $cols * $rows;
 $bgcolor: #6223D2;
+$shapeHeight: 230;
+$shapeWidth: 200;
+
 .page-header {
     background-color: #21D4FD;
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
