@@ -21,14 +21,14 @@ body {
     }
     & h1 {
         text-align: center;
-        & .main-content {
-            background-color: #6223D2;
-            color: $white;
-            border-radius: 10px;
-            border-width: 1px;
-            border-style: solid;
-            border-color: $white;
-        }
+    }
+    & .main-content h1 {
+        background-color: #6223D2;
+        color: $white;
+        border-radius: 10px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: $white;
     }
 }
 
