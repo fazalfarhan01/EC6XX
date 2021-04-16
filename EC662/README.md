@@ -1,6 +1,6 @@
 # EC662 | Digital Image Processing
 
-[Back](./../)
+[👈 Back](./../)
 
 <div>
 <a class="white" href="https://www.youtube.com/playlist?list=PLFkKAMLbnTTtMn2Qy-3qAp1vOZGn9JdSg"><p><span class="bg"></span><span class="base"></span><span class="text">YouTube Playlist</span></p></a>

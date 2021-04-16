@@ -1,6 +1,6 @@
 # EC620 | Computer Networks
 
-[Back](./../)
+[👈 Back](./../)
 
 <div>
 <a class="white" href="https://www.youtube.com/playlist?list=PLFkKAMLbnTTtZEQHO2iE7CMRdFv7m1LXG"><p><span class="bg"></span><span class="base"></span><span class="text">YouTube Playlist</span></p></a>

@@ -1,6 +1,6 @@
 # EC630 | CMOS VLSI
 
-[Back](./../)
+[👈 Back](./../)
 
 <div>
 <a class="white" href="https://www.youtube.com/playlist?list=PLFkKAMLbnTTs4V-p9oXGGB7MxtJcPu4X_"><p><span class="bg"></span><span class="base"></span><span class="text">YouTube Playlist</span></p></a>
