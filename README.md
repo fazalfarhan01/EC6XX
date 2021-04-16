@@ -3,5 +3,6 @@
 <!-- ## [View Class Videos]({{ site.github.youtube_url }}) -->
 
 ## [Computer Networks - EC620](./EC620)
+## [CMOS VLSI - EC630](./EC630)
 ## [Operating Systems - EC651](./EC651)
 ## [Digital Image Processing - EC662](./EC662)
