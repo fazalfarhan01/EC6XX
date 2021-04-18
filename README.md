@@ -5,9 +5,22 @@
 </div>
 
 ## [Mobile Communication - EC610](./EC610)
+  - Updated: 18-04-2021
+
 ## [Computer Networks - EC620](./EC620)
+  - Updated: 17-04-2021
+
 ## [CMOS VLSI - EC630](./EC630)
+  - Updated: 16-04-2021
+
 ## [Optical Fibers - EC640](./EC640)
+  - Updated: 18-04-2021
+
 ## [Operating Systems - EC651](./EC651)
+  - Updated: 16-04-2021
+
 ## [Digital Image Processing - EC662](./EC662)
+  - Updated: 16-04-2021
+
 ## [German - HU68S](./HU68S)
+  - Updated: None
