@@ -24,3 +24,9 @@
 
 ## [German - HU68S](./HU68S)
   - Updated: None
+
+
+<script>
+$(".btn").innerHTML = "Home";
+$(".btn").href = "./../../../EC6XX/";
+</script>
