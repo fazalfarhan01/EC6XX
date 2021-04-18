@@ -15,6 +15,10 @@
   - by Farhan
 
 
+# Important
+<img src="./assets/images/1Gvs2Gvs3Gvs4Gvs5G.jpg" loading="lazy" alt="Technology comparison">
+
+
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
 <script>
 $(".btn")[0].innerHTML = "Home";
