@@ -20,7 +20,7 @@
   - Updated: 16-04-2021
 
 ## [Digital Image Processing - EC662](./EC662)
-  - Updated: 16-04-2021
+  - Updated: 18-04-2021
 
 ## [German - HU68S](./HU68S)
   - Updated: None
