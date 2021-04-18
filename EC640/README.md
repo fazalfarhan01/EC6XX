@@ -8,4 +8,4 @@
 
 
 ## [1. Old Notes (MNJ)](./64%20-%20MNJ%20Full%20notes.pdf)
-<!-- ## [2. PPT Online Class](./Data%20Communication%20and%20Networking%20-%20Forouzan.pdf) -->
+## [2. Class Notes (NSP)](./EC640%20Notes.pdf)

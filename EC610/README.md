@@ -9,3 +9,5 @@
 
 ## [1. Unit 1 - Part 1](./mobile%20communication-chap1.pdf)
 ## [2. Unit 1 - Part 2](./chap-1%20mc%20cont.pdf)
+## [3. Unit 1 - Notes](./EC610%20-%20Unit%201%20Notes.pdf)
+  - by Farhan
