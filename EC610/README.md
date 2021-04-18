@@ -17,6 +17,6 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
 <script>
-$(".btn").innerHTML = "Home";
-$(".btn").href = "./../../../EC6XX/";
+$(".btn")[0].innerHTML = "Home";
+$(".btn")[0].href = "./../../../EC6XX/";
 </script>
