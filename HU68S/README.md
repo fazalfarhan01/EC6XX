@@ -10,6 +10,29 @@
 <!-- ## [1. Text Book - Forouzan](./Computer%20Networks%20-%20Text%20Book%20-%20Behrouz%20A%20Forouzan.pdf)
 ## [2. PPT Online Class](./Data%20Communication%20and%20Networking%20-%20Forouzan.pdf) -->
 
+## Class 1 Portions
+<img src="./Class-1-portions.jpeg" loading="lazy" alt="Class 1 Portions" max-height="400px">
+
+## Class 2 Portions
+
+- die Familie
+- der Vater
+- die Mutter
+- der Bruder
+- die Schwester
+- der Großvater
+- die Großmutter
+---
+- __die Familie__
+- (mein) der Vater
+- (meine) die Mutter
+
+- der Bruder
+- die Schwester
+
+- der Großvater
+- die Großmutter
+
 
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
