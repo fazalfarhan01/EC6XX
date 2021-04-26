@@ -1,0 +1,12 @@
+[submodule "Private/EC620L"]
+	path = Private/EC620L
+	url = https://github.com/fazalfarhan01/Networking-CPT-Files.git
+[submodule "Private/EC630L"]
+	path = Private/EC630L
+	url = https://github.com/fazalfarhan01/EC630L.git
+[submodule "Private/EC662/GazeTracking"]
+	path = Private/EC662/GazeTracking
+	url = https://github.com/fazalfarhan01/GazeTracking.git
+[submodule "Private/EC67L/Face-Mask-Detection"]
+	path = Private/EC67L/Face-Mask-Detection
+	url = https://github.com/DespicableMee/Face-Mask-Detection.git
