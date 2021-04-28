@@ -22,14 +22,14 @@
 - die Schwester
 - der Großvater
 - die Großmutter
+
 ---
-- __die Familie__
+
+- die Familie
 - (mein) der Vater
 - (meine) die Mutter
-
 - der Bruder
 - die Schwester
-
 - der Großvater
 - die Großmutter
 
