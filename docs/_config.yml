@@ -1,1 +1,10 @@
+title: EC6XX
+description: This website hosts all study material for EC 6th sem @JSSSTU
+author: Mohamed Farhan Fazal
 theme: jekyll-theme-cayman
+# show_downloads: true
+is_project_page: false
+github:
+  youtube_url: https://www.youtube.com/c/MohamedFazal
+  zip_url: https://www.youtube.com/c/MohamedFazal
+  tar_url: https://www.youtube.com/c/MohamedFazal
