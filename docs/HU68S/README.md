@@ -33,6 +33,18 @@
 - der Großvater
 - die Großmutter
 
+## Class 3 Portions
+
+- die Bekante (the acquaintance)
+- der Freund
+- die Freundin
+- der Nachbar
+- die Nachbarin
+- der Lehrer
+- die Lehrerin
+- der Student
+- die Studentin
+
 
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
