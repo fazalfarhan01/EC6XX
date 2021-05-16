@@ -14,6 +14,8 @@
 ## [3. Unit 1 - Notes](./EC610%20-%20Unit%201%20Notes.pdf)
 ## [4. Unit 2 - Textbook (OCR Version)](./EC610%20-%20Unit%201%20Notes.pdf)
 - Searchable PDF
+## [5. Unit 3 - Textbook (OCR Version)](#)
+- To be uploaded soon
 
 
 # Important
