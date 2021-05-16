@@ -12,7 +12,8 @@
 
 ## [2. Unit 1 - Part 2](./mobile%20communication-chap1.pdf)
 ## [3. Unit 1 - Notes](./EC610%20-%20Unit%201%20Notes.pdf)
-  - by Farhan
+## [4. Unit 2 - Textbook (OCR Version)](./EC610%20-%20Unit%201%20Notes.pdf)
+- Searchable PDF
 
 
 # Important
