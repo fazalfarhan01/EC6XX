@@ -45,6 +45,28 @@
 - der Student
 - die Studentin
 
+## Class 4 Portions
+
+- das Frühstück
+- das Mittagessen
+- das Abendessen
+- 
+- das Brot
+- das Brötchen
+- die Marmelade
+- die Butter
+- das Fleisch
+- der Reis
+- das Curry
+- das Gemüse
+- 
+- das Getränk
+- der Tee
+- der Kaffee
+- die Milch
+- der Orangensaft
+- das Wasser
+
 
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
