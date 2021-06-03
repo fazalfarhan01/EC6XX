@@ -50,7 +50,7 @@
 - das Frühstück
 - das Mittagessen
 - das Abendessen
-- 
+---
 - das Brot
 - das Brötchen
 - die Marmelade
@@ -59,7 +59,7 @@
 - der Reis
 - das Curry
 - das Gemüse
-- 
+---
 - das Getränk
 - der Tee
 - der Kaffee
@@ -67,7 +67,38 @@
 - der Orangensaft
 - das Wasser
 
+## Class 5 Portions
+2nd chapter after 1st Internals
+---
+- zum Picknick.
+- für den Urlaub.
+- für den Sommer.
+---
+- die Natur
+- die Berge.
+- die Hügel.
+- der Strand.
+- das Meer.
+- die Altstadt.
+- der Wald.
+- die Sehenswürdigkeiten.
+- die Touristenattraktionen.
+---
+- gehen 
+- ich gehe 
+- du gehst 
+- Sie gehen 
+- er, sie, es geht 
+- wir, sie gehen 
+- ihr geht 
 
+
+- Gehen Sie bitte rechts. 
+- Gehen Sie bitte links. 
+- Gehen Sie bitte geradeaus.
+---
+- Wie kann ich zum Cafe bitte?
+- Wie komme ich zum Cafe bitte?
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
 <script>

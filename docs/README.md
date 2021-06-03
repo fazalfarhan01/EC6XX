@@ -23,7 +23,7 @@
   - Updated: 18-04-2021
 
 ## [German - HU68S](./HU68S)
-  - Updated: 29-04-2021
+  - Updated: 03-06-2021
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
 <script>
