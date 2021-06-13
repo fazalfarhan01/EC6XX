@@ -27,15 +27,15 @@
 ### Unit 5:
 - __Transport Layer__:Introduction: Transport Layer Services, Connectionless and Connection Oriented Protocols, - __User Datagram Protocol__: User Datagram, UDP Services, UDP Applications, Transmission Control Protocol: TCP Services, TCP Features, Segment, Connection, State Transition diagram, Windows in TCP, Flow control, Error control, TCP congestion control.
 
-## [1. Syllabus Copy](docs\EC620\syllabus.pdf)
+## [1. Syllabus Copy](./syllabus.pdf)
 ## [2. Text Book - Forouzan](./Computer%20Networks%20-%20Text%20Book%20-%20Behrouz%20A%20Forouzan.pdf)
 ## [3. PPT Online Class](./Data%20Communication%20and%20Networking%20-%20Forouzan.pdf)
 ## [4. Unit 1 Notes](./62%201st%20Int%20-%20CN%20xerox.pdf)
 
-## [5. Unit 3.2](docs\EC620\unit-3-part-2.pdf)
-## [6. Unit 4.1](docs\EC620\unit-4-part-1.pdf)
-## [7. Unit 4.2](docs\EC620\unit-4-part-2.pdf)
-## [8. Unit 4.3](docs\EC620\unit-4-part-3.pdf)
+## [5. Unit 3.2](./unit-3-part-2.pdf)
+## [6. Unit 4.1](./unit-4-part-1.pdf)
+## [7. Unit 4.2](./unit-4-part-2.pdf)
+## [8. Unit 4.3](./unit-4-part-3.pdf)
 
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
