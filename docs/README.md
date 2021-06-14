@@ -5,10 +5,10 @@
 </div>
 
 ## [Mobile Communication - EC610](./EC610)
-  - Updated: 18-04-2021
+  - Updated: 13-06-2021
 
 ## [Computer Networks - EC620](./EC620)
-  - Updated: 17-04-2021
+  - Updated: 14-06-2021
 
 ## [CMOS VLSI - EC630](./EC630)
   - Updated: 16-04-2021
