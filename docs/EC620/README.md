@@ -32,7 +32,9 @@
 ## [3. PPT Online Class](./Data%20Communication%20and%20Networking%20-%20Forouzan.pdf)
 ## [4. Unit 1 Notes](./62%201st%20Int%20-%20CN%20xerox.pdf)
 
+## [5. Unit 3.1](./unit-3-part-1.pdf)
 ## [5. Unit 3.2](./unit-3-part-2.pdf)
+## [5. Unit 3.3](./unit-3-part-3.pdf)
 ## [6. Unit 4.1](./unit-4-part-1.pdf)
 ## [7. Unit 4.2](./unit-4-part-2.pdf)
 ## [8. Unit 4.3](./unit-4-part-3.pdf)
