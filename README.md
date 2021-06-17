@@ -23,4 +23,4 @@
   - Updated: 18-04-2021
 
 ## [German - HU68S](./docs/HU68S)
-  - Updated: None
+  - Updated: 17-06-2021
