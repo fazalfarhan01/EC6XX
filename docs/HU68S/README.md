@@ -135,6 +135,12 @@
 - Singen
 - Tanzen
 
+---
+
+- Mein Hobby ist Kochen.
+- Meine Hobbys sind Radfahren und Wandern.
+
+---
 
 - Was ist dein Hobby?
 - Was sind deine Hobbys?
