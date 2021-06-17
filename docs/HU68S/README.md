@@ -103,7 +103,9 @@
 
 - Wie kann ich zum Cafe bitte?
 - Wie komme ich zum Cafe bitte?
+
 ---
+
 ## 3rd Chapter after 1st Internals
 
 - **das Apartment**
@@ -119,7 +121,9 @@
 - die Küche
 - der Balkon
 - der Flur
+
 ---
+
 ## 4th Chapter after 1st Internals - 17/06/2021
 
 - die Hobbys
@@ -134,7 +138,9 @@
 
 - Was ist dein Hobby?
 - Was sind deine Hobbys?
+
 ---
+
 ## 5th Chapter after 1st Internals - 17/06/2021
 
 - die Feste und die Feiere
