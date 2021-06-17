@@ -68,12 +68,14 @@
 - das Wasser
 
 ## Class 5 Portions
-2nd chapter after 1st Internals
----
+### 2nd chapter after 1st Internals
+
+
 - zum Picknick.
 - für den Urlaub.
 - für den Sommer.
----
+
+
 - die Natur
 - die Berge.
 - die Hügel.
@@ -83,7 +85,8 @@
 - der Wald.
 - die Sehenswürdigkeiten.
 - die Touristenattraktionen.
----
+
+
 - gehen 
 - ich gehe 
 - du gehst 
@@ -96,9 +99,61 @@
 - Gehen Sie bitte rechts. 
 - Gehen Sie bitte links. 
 - Gehen Sie bitte geradeaus.
----
+
+
 - Wie kann ich zum Cafe bitte?
 - Wie komme ich zum Cafe bitte?
+---
+## 3rd Chapter after 1st Internals
+
+- **das Apartment**
+- das Haus
+- das Familienhaus
+- das Studentenwohnheim
+- das Bauernhaus
+- das Hochhaus
+
+
+- das Wohnzimmer
+- das Badezimmer
+- die Küche
+- der Balkon
+- der Flur
+---
+## 4th Chapter after 1st Internals - 17/06/2021
+
+- die Hobbys
+- Roman lesen
+- Fußball spielen
+- Kochen
+- Radfahren
+- Wandern
+- Singen
+- Tanzen
+
+
+- Was ist dein Hobby?
+- Was sind deine Hobbys?
+---
+## 5th Chapter after 1st Internals - 17/06/2021
+
+- die Feste und die Feiere
+- das Fest
+- die Feier
+- der Geburtstag
+- der Gebrtstag
+- die Einweihungsparty
+- die Abschlussfeier
+- Weihnachten
+- Ostern
+
+
+- die Jahrezeiten
+- im Sommer
+- im Herbst
+- im Winter
+- im Frühling
+- im Monsun
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
 <script>
