@@ -153,7 +153,6 @@
 - das Fest
 - die Feier
 - der Geburtstag
-- der Gebrtstag
 - die Einweihungsparty
 - die Abschlussfeier
 - Weihnachten
