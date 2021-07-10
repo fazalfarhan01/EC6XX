@@ -17,7 +17,7 @@
   - Updated: 18-04-2021
 
 ## [Operating Systems - EC651](./EC651)
-  - Updated: 16-04-2021
+  - Updated: 10-07-2021
 
 ## [Digital Image Processing - EC662](./EC662)
   - Updated: 09-07-2021
