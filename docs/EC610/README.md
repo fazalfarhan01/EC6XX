@@ -8,15 +8,14 @@
 
 
 ## [1. Unit 1 - Part 1](./chap-1%20mc%20cont.pdf)
-  - Done in offline class
-
 ## [2. Unit 1 - Part 2](./mobile%20communication-chap1.pdf)
 ## [3. Unit 1 - Notes](./EC610%20-%20Unit%201%20Notes.pdf)
-## [4. Unit 2 - Textbook (OCR Version)](./EC610%20-%20Unit%201%20Notes.pdf)
-- Searchable PDF
-## [5. Unit 3 - Textbook (OCR Version)](#)
-- To be uploaded soon
+## [4. Unit 2 - Textbook (OCR Version)](Unit-2-OCR.pdf)
+## [5. Unit 3 - Textbook](Unit-3.pdf)
+## [6. Unit 4 - Textbook](Unit-4.pdf)
+## I have no idea what unit 5 is :(
 
+---
 
 # Important
 <img src="./assets/images/1Gvs2Gvs3Gvs4Gvs5G.jpg" loading="lazy" alt="Technology comparison">

@@ -5,7 +5,7 @@
 </div>
 
 ## [Mobile Communication - EC610](./EC610)
-  - Updated: 13-06-2021
+  - Updated: 12-07-2021
 
 ## [Computer Networks - EC620](./EC620)
   - Updated: 14-06-2021
